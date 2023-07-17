@@ -5,6 +5,7 @@ test-assignment by newmax
 
 clone this git repo
 ```
+
   $ git clone https://github.com/kirshik/newmax_test_assignment.git
 
 ```
