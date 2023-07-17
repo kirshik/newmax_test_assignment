@@ -14,7 +14,7 @@ install dependencies
 
 ```
 
-  npm install
+  $ npm install
 
 ```
 
